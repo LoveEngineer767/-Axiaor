@@ -1,0 +1,11 @@
+{
+  "framework": null,
+  "installCommand": null,
+  "buildCommand": null,
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/demo_v2.html"
+    }
+  ]
+}
